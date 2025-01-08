@@ -1,5 +1,5 @@
 
-# Hi, I'm Carlos Gustavo 
+# Hi, I'm Carlos Gustavo Vera Nito 
 
 I'm a passionate and dedicated developer with a love for learning and adapting to new technologies.
 
